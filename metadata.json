@@ -1,0 +1,8 @@
+{
+  "name": "Remix ExamFlow - PDF Visualizer \u0026 Spaced Repetition Study Engine",
+  "description": "Upload any PDF to generate structured study summaries, visual flowcharts and concept diagrams with high-resolution image export, exam-oriented questions, high-weightage concepts, and an intelligent spaced-repetition flashcard system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
